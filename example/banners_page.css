@@ -1,0 +1,26 @@
+/*=======================================
+       Page for Random Banners 
+=======================================*/
+div.banner_container_sp { /*   for smartphone   */
+width: 320px;
+}
+div.banner_container {    /*   for non-smartphone   */
+width: 600px;
+}
+
+/*  optional (example-1)  / you can set margin for <img
+div.banner_container_sp img {
+margin-right: 10px;
+}
+div.banner_container img {     
+margin-right: 10px;
+}
+*/
+
+/*  optional (example-2)  / if you add a class for <img
+img.links_banner {
+margin-right: 10px;
+width: 88px;
+height: 31px;
+}
+*/

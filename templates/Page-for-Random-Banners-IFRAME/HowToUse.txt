@@ -1,0 +1,76 @@
+/*=======================================
+       Page for Random Banners 
+       'single-pfrb_IFRAME.php'
+=======================================*/
+
+'single-pfrb_IFRAME.php' is a template for "Page for Random Banners", a Wordpress Plugin which we created.
+
+- "Page for Random Banners"
+https://wordpress.org/plugins/page-for-random-banners/
+
+- All About "Page for Random Banners"
+http://www.rainbow-link.com/rainbowlink_inc_s_catalogue.htm?&item_no=RLF15&medialink_id=GH
+
+- How to Install this template
+Download this file and put into your wordpress active theme's directory.
+
+- How to Back Up this template
+Download this file and put into '/wp-content/plugins/page-for-random-banners/templates'.
+
+
+- How to Use this template
+
+(1) At the WordPress "Page for Random Banners" screen,  by using this template, create iframe-content-pages.
+
+(2) At the WordPress POST/PAGE/any screen, by using your normal tempalte ( example: single.php ), create an iframe-page like this: 
+
+<h3>A city</h3>
+<iframe src="http://***.com/your-iframe-content-page-1.php" class="links_iframe"></iframe>
+<br>
+<h3>B city</h3>
+<iframe src="http://***.com/your-iframe-content-page-2.php" class="links_iframe"></iframe>
+<br>
+<h3>C city</h3>
+<iframe src="http://***.com/your-iframe-content-page-3.php" class="links_iframe"></iframe>
+
+(3) At your wordpress active theme's directory, create a CSS for the class, 'links_iframe'. ( sample: 'links_iframe.css' in this repository )
+
+
+
+
+
+/*===================================================================
+    『ページ for ランダムバナー』　（原題『Page for Random Banners』）     
+                'single-pfrb_IFRAME.php'
+===================================================================*/
+
+'single-pfrb_IFRAME.php'は、『ページ for ランダムバナー』　（原題『Page for Random Banners』）の新しいテンプレートです。
+
+- 『ページ for ランダムバナー』　（原題『Page for Random Banners』）
+https://wordpress.org/plugins/page-for-random-banners/
+
+- 『ページ for ランダムバナー』　（原題『Page for Random Banners』）に関する全情報
+http://jp.Rainbow-Link.com/rainbowlink_inc_s_catalogue.htm?&item_no=RLF15ja&medialink_id=GH
+
+- このテンプレートのインストール方法
+このテンプレートをダウンロードして、現在アクティブになっているテーマの中に追加してください。
+
+- このテンプレートのバックアップ方法
+このテンプレートをダウンロードして、`/wp-content/plugins/page-for-random-banners/templates`の中に追加してください。
+
+- このテンプレートの使いかた
+
+(1) "Page for Random Banners"専用管理画面で、iframeの中身になるページを、このテンプレートを使ってご作成ください。
+
+(2) 通常の固定ページなどで、iframeのページを、single.php のような通常のテンプレートを使って、次のようにご作成ください：
+
+<h3>A市</h3>
+<iframe src="http://***.com/your-iframe-content-page-1.php" class="links_iframe"></iframe>
+<br>
+<h3>B市</h3>
+<iframe src="http://***.com/your-iframe-content-page-2.php" class="links_iframe"></iframe>
+<br>
+<h3>C市</h3>
+<iframe src="http://***.com/your-iframe-content-page-3.php" class="links_iframe"></iframe>
+
+(3) 'links_iframe'クラスのため、スタイルシートをご作成ください。 ( サンプルは、このレポジトリの中にある 'links_iframe.css'です )

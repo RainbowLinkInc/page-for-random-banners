@@ -1,0 +1,26 @@
+/*=======================================
+       Page for Random Banners 
+=======================================*/
+div.banner_container_sp { /*   スマホ用のコンテナ設定   */
+width: 320px;
+}
+div.banner_container {    /*   スマホ以外のコンテナ設定   */
+width: 600px;
+}
+
+/*  オプション（例1）  / <img にmarginを使うことができます
+div.banner_container_sp img {
+margin-right: 10px;
+}
+div.banner_container img {     
+margin-right: 10px;
+}
+*/
+
+/*  オプション（例2）  / <img タグにクラスを使うことができます
+img.links_banner {
+margin-right: 10px;
+width: 88px;
+height: 31px;
+}
+*/

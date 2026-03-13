@@ -1,0 +1,4 @@
+You can download another template, "Page for Random Banners [IFRAME]" at GitHub.
+
+- "Page for Random Banners [IFRAME]" ('single-pfrb_IFRAME.php')
+https://github.com/RainbowLinkInc/Page-for-Random-Banners-IFRAME-
