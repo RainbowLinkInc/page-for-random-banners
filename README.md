@@ -5,13 +5,13 @@ WordPress Plugin ( https://wordpress.org/plugins/page-for-random-banners )
 
 Contributors: rainbowlinkinc
 
-Donate link: https://www.Rainbow-Link.com/catalogue.htm?&item_no=RLF15&link_id=wp
+Donate link: https://www.Rainbow-Link.com/catalogue.htm?&item_no=RLF15&link_id=gh
 
 Tags: random banners
 
 Requires at least: 4.4.2
 
-Tested up to: 6.9
+Tested up to: 7.1.1
 
 Stable tag: 1.3.8
 
