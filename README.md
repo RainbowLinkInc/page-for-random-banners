@@ -11,7 +11,7 @@ Tags: random banners
 
 Requires at least: 4.4.2
 
-Tested up to: 7.1.1
+Tested up to: 7.1.2
 
 Stable tag: 1.3.8
 
