@@ -3,7 +3,7 @@ Contributors: rainbowlinkinc
 Donate link: https://jp.Rainbow-Link.com/catalogue.htm?&item_no=RLF15ja&link_id=wp
 Tags: banners, links, page, random banners, links page, ads page, pages
 Requires at least: 4.4.2
-Tested up to: 7.1.1
+Tested up to: 7.1.2
 Stable tag: 1.3.8
 Requires PHP: 8.0
 License: GPLv2 or later
